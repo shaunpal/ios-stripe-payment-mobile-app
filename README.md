@@ -17,4 +17,4 @@ Interactive E-Commerce iOS shopCart App with Stripe payment sdk integration.
 <br /> <br />
 
 - Payment process and confirmation <br /> <br />
-<img src="screens/payment-sheet.png" width="200" /> &nbsp; <img src="screens/purchase-notification.png" width="200" /> &nbsp; <img src="screens/purchase-receipts.png" width="200" /> &nbsp; <img src="screens/receipt-records.png" width="200" />
+<img src="screens/payment-sheet.png" width="200" /> &nbsp; <img src="screens/purchase-notification.png" width="200" /> &nbsp; <img src="screens/receipt-records.png" width="200" /> &nbsp; <img src="screens/purchase-receipts.png" width="200" />
